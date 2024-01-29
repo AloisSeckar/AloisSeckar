@@ -3,19 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloisseckar&label=Profile%20views&color=38b2ac&style=flat" alt="aloisseckar" /> </p>
 
-- 🔭 I’m currently working on [WBSC-Scoring](https://github.com/AloisSeckar/WBSC-Scoring)
+- 🔭 I’m currently working on [ELRHistory](https://github.com/AloisSeckar/ELRHistory) and [WBSC-Scoring](https://github.com/AloisSeckar/WBSC-Scoring)
+
+- 🤝 I’m looking for help with [ELRHistory](https://github.com/AloisSeckar/ELRHistory) and [WBSC-Scoring](https://github.com/AloisSeckar/WBSC-Scoring)
 
 - 🌱 I’m currently learning **Vue.js + Nuxt**
 
-- 👯 I’m looking to collaborate on **Some meaningful OpenSource project**
-
-- 🤝 I’m looking for help with [ELRHistory](https://github.com/AloisSeckar/ELRHistory)
-
 - 💬 Ask me about **Nuxt**
+
+- :eyes: I translated [Vue.js docs into Czech](https://cs.vuejs.org/)
+
+- 👯 I’m looking to collaborate on **Some meaningful OpenSource projects**
 
 - 📫 How to reach me **alois.seckar@gmail.com**
 
 - 👨‍💻 All of my projects are available at [http://alois-seckar.cz](http://alois-seckar.cz)
+  
+<h3 align="left">Certifications:</h3>
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></a> [Oracle Certified Professional, Java SE 8 Programmer](https://alois-seckar.cz/pdf/as-java-ocp-8.pdf)
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> [Vue.js Developer Level I](https://alois-seckar.cz/pdf/as-vuejs-dev.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
