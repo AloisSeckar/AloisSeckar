@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloisseckar&label=Profile%20views&color=38b2ac&style=flat" alt="aloisseckar" /> </p>
 
-- 🔭 I’m currently working on [ELRHistory](https://github.com/AloisSeckar/ELRHistory) and [WBSC-Scoring](https://github.com/AloisSeckar/WBSC-Scoring)
-
-- 🤝 I’m looking for help with [ELRHistory](https://github.com/AloisSeckar/ELRHistory) and [WBSC-Scoring](https://github.com/AloisSeckar/WBSC-Scoring)
+- 🔭 I’m currently working on [ELRHistory](https://github.com/AloisSeckar/ELRHistory), [WBSC-Scoring](https://github.com/AloisSeckar/WBSC-Scoring) and [Nuxt Ignis](https://github.com/AloisSeckar/nuxt-ignis)
 
 - 🌱 I’m currently learning **Vue.js + Nuxt**
 
