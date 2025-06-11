@@ -51,6 +51,7 @@
   <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a> 
 </p>
 
-<!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aloisseckar&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="aloisseckar" /></p>-->
-<p><img src="https://github-readme-stats.vercel.app/api?username=aloisseckar&show_icons=true&theme=cobalt&locale=en" alt="aloisseckar" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aloisseckar&theme=highcontrast" alt="aloisseckar" /></p>
+<p><a href="(https://nuxters.nuxt.com/AloisSeckar"><img src="https://nuxters.nuxt.com/card/AloisSeckar/og.png" alt="Alois Seckar on Nuxters" width="494" /></a></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aloisseckar&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="aloisseckar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=aloisseckar&show_icons=true&theme=cobalt&locale=en" alt="aloisseckar" /></p>
