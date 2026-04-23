@@ -19,10 +19,9 @@
   
 <h3 align="left">Certifications:</h3>
 
-- [Oracle Certified Professional, Java SE 8 Programmer](https://alois-seckar.cz/pdf/as-java-ocp-8.pdf)
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/></a>
-- [Vue.js Developer Level I](https://alois-seckar.cz/pdf/as-vuejs-dev.pdf)
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
+[![Vue.js Mid-Level Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Mid--Level-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/9b35370a-0c34-4db2-8aac-29753dba0da1)
+
+[Oracle Certified Professional, Java SE 8 Programmer](https://alois-seckar.cz/pdf/as-java-ocp-8.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <table>
